@@ -1,4 +1,3 @@
-# Bungee-Coding-Round
 
 ## Requirement to run the code
 
